@@ -1,4 +1,4 @@
 ## hello-world
-Just *another* repository
+Just *another* repository 😄
 
 I'm learning to use [GitHub](https://www.github.com)

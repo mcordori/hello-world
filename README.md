@@ -1,4 +1,4 @@
 ## hello-world
 Just *another* repository
 
-[I](mcordori/README.md)'m learning to use [GitHub](www.github.com)
+[I](mcordori/README.md)'m learning to use [GitHub](https://www.github.com)

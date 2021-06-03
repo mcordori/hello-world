@@ -1,4 +1,4 @@
-# hello-world
-Just another repository
+## hello-world
+Just *another* repository
 
-I'm learning to use GitHub
+[I](mcordori/README.md)'m learning to use [GitHub](github.com)
